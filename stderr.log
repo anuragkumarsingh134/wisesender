@@ -1,0 +1,167 @@
+/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Utils/generics.js:159
+            .then(() => reject(new boom_1.Boom('Timed Out', {
+                               ^
+
+Error: Timed Out
+    at /home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Utils/generics.js:159:32 {
+  data: {
+    stack: 'Error\n' +
+      '    at promiseTimeout (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Utils/generics.js:154:19)\n' +
+      '    at waitForMessage (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:112:61)\n' +
+      '    at query (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:135:22)\n' +
+      '    at Object.profilePictureUrl (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Socket/chats.js:438:30)\n' +
+      '    at getPpUrl (/home/wapisend/my.wapisender.com/server/whatsapp.js:1:14239)\n' +
+      '    at Object.connectToWhatsApp (/home/wapisend/my.wapisender.com/server/whatsapp.js:1:1658)\n' +
+      '    at Socket.<anonymous> (/home/wapisend/my.wapisender.com/server.js:50:12)\n' +
+      '    at Socket.emit (node:events:513:28)\n' +
+      '    at Socket.emitUntyped (/home/wapisend/my.wapisender.com/node_modules/socket.io/dist/typed-events.js:69:22)\n' +
+      '    at /home/wapisend/my.wapisender.com/node_modules/socket.io/dist/socket.js:703:39'
+  },
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Timed Out'
+    },
+    headers: {}
+  }
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "1006".] {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Utils/generics.js:159
+            .then(() => reject(new boom_1.Boom('Timed Out', {
+                               ^
+
+Error: Timed Out
+    at /home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Utils/generics.js:159:32 {
+  data: {
+    stack: 'Error\n' +
+      '    at promiseTimeout (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Utils/generics.js:154:19)\n' +
+      '    at waitForMessage (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:112:61)\n' +
+      '    at query (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:135:22)\n' +
+      '    at Object.profilePictureUrl (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Socket/chats.js:438:30)\n' +
+      '    at getPpUrl (/home/wapisend/my.wapisender.com/server/whatsapp.js:1:14239)\n' +
+      '    at connectToWhatsApp (/home/wapisend/my.wapisender.com/server/whatsapp.js:1:1658)\n' +
+      '    at /home/wapisend/my.wapisender.com/server/whatsapp.js:1:4553\n' +
+      '    at EventEmitter.listener (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Utils/event-buffer.js:82:17)\n' +
+      '    at EventEmitter.emit (node:events:525:35)\n' +
+      '    at Object.emit (/home/wapisend/my.wapisender.com/node_modules/@whiskeysockets/baileys/lib/Utils/event-buffer.js:94:23)'
+  },
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Timed Out'
+    },
+    headers: {}
+  }
+}
